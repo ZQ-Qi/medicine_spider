@@ -1,0 +1,1644 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//Dtd XHTML 1.0 transitional//EN" "http://www.w3.org/tr/xhtml1/Dtd/xhtml1-transitional.dtd">
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>受理目录浏览</title>
+	<meta id="9DhefwqGPrzGxEp9hPaoag" content="LGHhAINAOjABlAJQANnAN}ALUAM;AD7AOzAGX&amp;Q?OUXX[IJYYUbI(IIMIZ[LTUV-X.a]Q@3R1*Yq\?B4&gt;s;/6:`x20O98yrK_57SnwcA+J&lt;W^p=,vPbHtCNuMdfeg !#$%hijklmz}()DFGIaILNRUILI\URLNILXWLJ]IJ)})r)|&amp;&gt;:Y?Q7X&gt;Zf[&gt;Z1\=T5\7[eO^STZb\`c/UOZ4[?a[\4^VU0[UVEUD\_TG[bZ8O/`b\TUbYu]4T3QdSA[fXg[cY6V_Z6XEXu\PPOS^[zRH[HXdaT%-}Y}m/Y=mV}=548g/lBkTC&gt;XZ/s&gt;G=wu@hwEG=/Ciptsjyh/F\I6F&gt;&lt;)/B\V.B|;/B_z8B;pkgg/W&gt;VD}\X6/xDp4}WzH^\V/8(z_{&lt;&lt;|Yg/lEri^E5r^:A[7uk/BWg.BV6/(V(@^V(:8u)6/?v5l7&lt;0ts1_r/8zzw{g/p&lt;Fw(qYzl@/n_4mWzY/qD_)}26HFV;)n=6V}m/C=_/|;Ip8_I}Wm/{B63726i/F1m_/svyiov_0FXr~FE6/^1I.wi5HsE?DlEI1wWV~CqADxEX~^itrFjX9Yv]/nXr/?&lt;Fx?XFY(_zWW0/sjGzo{5i};&lt;wCEz6FuA6Fixi7E0]};&lt;6}Egr}{g0^@/lDAH}(VT}{_h}\|t/B|]i/wi4I^&gt;m/g(6\w|IoBi@yBXFGCE?sn(?jB&lt;HCCuY/q1|=}DA:pB|Dg@/(z_/Bz_/w&gt;GV^&gt;]/B\&lt;7WDtW/7zHhq1(~q1z^/}XFYlg/C=V/oE&lt;iFj_/}iFllqtEY=Auq10m8ituqjX^xjpV/gXX7qutn|VI(qzr/7zY/}1GX{g/^{x6F{tz^v5il0/YW6]8\k0p20/{=mrk=0zCu0)F;kH7m/FEI9Fiz6Fm/Cqp~YE?]xjzD%*-O.ag9yw|9.2bxu;~b/&lt;@OyDSM0(i,P`SvQtb1Q;&gt;h}LqscHSyP/P}aE2avN2IItP?BH0gq/z&lt;*{wbq&lt;K/cN~s.t+`x.@?M.|^/G-B*HQPxNP{MH-2aa~00FPzxtue0s,Ru`cr+H?c9a(EdubP;AsiO.sIz/EE?Q.~fxNQMI`&gt;*ut2`ziI^*{&gt;&gt;/(zvQDP3A;*(hF2gvt~&lt;A/0|BHu-c-S{x.KPaL~uxE:eM/J;{/R)cFISh{Rty;E`.bER/`/:M):^hf+c*f2A%FJD.gL/LwLOLM{+L&amp;L\LS4;WnL(LsLmLYLZLvL*LUC(W(L;W-L5W#FMLCWSLLL){32SLkWE44LPlCl)L^2lWvL{WYW3W&amp;LALbW6F2W_lPW$WjFeW[X*LgLFoeIpplFbW gsUsWsIkU0f-WlW+W0WFWoWL{0W4{8f\l6A(WmpZWU{mpoUnFIXnWCfIW.UZW;U+W]IIf(e|2+vSg^CwW2eU4el;nI{A{w{5bYe1{L{Cekpm{/{${#?fo(F^2OXXP]U[U{IZfspfF5U;{){s{-{F{ {X{EfMU|FXvbpsp_Cm2m{[{2n {^XvnUCI{jIY{fIgF]Ijg_fQUwU8U4CelQU&amp;U/UoCo{ogbf*b|fk4NgYfjv2UL{4emeXnAegP|f)e32wepfUU2f&amp;eMfYAIU6e+PoUuf[2IUeA1F.C_4?I+A^f^UXf_?+C8vkb-lSv/UNA6lvl(I_pkA+C%fSf+e?f0eofuf??S4OI-P&amp;ejF/Ugp)f#p8l|eWe^e.p$p?bb4EfL4]e\2$4&amp;IopjIEoNpYfWevAAfzC f5eCp/pMCsXQgZX;o3g5Fpv4vC4PppCOXUF{I1o[e_P1l*b0p{e5eA23pIF(lXC.fgvs?EeNfPe;2\lWb]2ZI{p*pe?_I[2uU^pWp[gwI^X.C^v$pLX5eS2_e$efPCv-?wP)e8p5n.l4P.vvFse42*I&amp;l#o]eOXuC$ezFSI|IWIMWAIeI/g#ASl14Qo/ISI)4*2Q4+I%o8I4bCo^e(4WF4l/XL2Me/FznseEb3I5eF2??vP5F_vPW5X?n%owP6o4?mFAF[2XCuFvljvMgEvpPzo#P4AOX4ewv]g\oXbF24F8oLFLe6bAF3lpbknSW^22C{bU?5vUg1F|b4X0gCv^Xbn|e0bEAw4-2]A_CS4unpgX4{C0AmpZo%lo20CY4zA gubQfEAWb$P$C1?*vIvFoAI*2eoOPSA$2/PUXebo?kPIAgbnXsPbC+l&amp;oIbwbj?{n6gSCkv.?%gQA*n;b*n-C3v)CQb.lI4vn{CfW^Xln]b%UbC]IPXkbXP8XSCpv(b{n5l^f{CvX{?se]vjgL4 b;A#bW?zPpnzA8AsCFFl4Ib126b6ALUvo?b+4(2NA]v1n2XwPnoMbznmn(C?X8b?4YAMU 4fbuAlX|g[v#vzl?A2b[v_41b)gflf?Wn0oUn)gzFPggAZA)f%FZosbfXCl%v&amp;nf2jX]F6?LvQX\nlAUnQCCgnXj2&amp;Pug CWC6Pk?&amp;l.nP4#n3nEl_ovP*P 2gogo+4FbL4[l3A[p3F\UloY?Ooneb??v;opl{p+C2n1Azo*PmpXlM4_AN4p?nC\lLnX?X2LC*?^I;AP?M48bgoEA&amp;{?n#X(PX45FOv%P+P#?$4C?4CzX3XWvWgFXMF??(o)vX4g2nb eYo {QA%g6PNo|n4{NPY{;X%?[2;g2A\gPIsleFYA3?-4o?ZP?XpP[bOA?b(X$2kvmF*P(fNe f8IC{el02FvEf4lsgpP{?YX6ojbI?A2-FwnbgeA;obC&amp;I]f]4Zn+o6p Fo2|X#{UPlv*ePg-2fo&amp;F-{{vLnYbep04MI2W\l]oSXop1lN2Ag]{YXO2p2Yg)n$gvP;ApA/vZXm2s40v?2CPZp6?lomo1g04\nCn&amp;XYA{nL? 2UC/o-P/?)AfF;gAI#n[F%bNAClUvonjAeCAblo{b8glPWo\PL4j2(?UeQfpg|b5oZo5ILv6A.FU?2U1?pAEXI?3P_b^FWP0oo43g+l-n/pS4sAvAuAn?.A-WOXPX AbA|?je2fvv[?Fg$I8F#?ooW2zn8bSo_4SeICLI\FFvNfo?Cok?;g4CZCjl\?#nFX^n*?/g(XA?egOvYln2)C;AQofF$4kFC2[CM4XF+CUlzPvPge*?|2%g*AYXE42PeeneugIb&amp;4.v5v{e-2 gmesC4bPAooFvuC)nvA5nnPAX-X_C5F nWIFe&amp;XfP%X/v\A0l IfIn?gAjgUlbg3?1CEvgC#CnFkP-l$2vPQ?un^F0IvWwPPI6o$eZpU2b4|l54be#X)I.I3nkoQ2oIAvwIul[f3pnoP4mIXv+vAoupCp4p.o0PEg&amp;AXbZI(PsX&amp;POp^CgnglEgjo2n??6Iz4lC|pvv8vnlmIwe[I0vlp]oCg/p%lknoI p#bMfXI?C[ClCPXZ?NP\olnN?Pn_4^n\Fm28nObvIO4UFjb221pzfef2I$4npOX1pN?8PFpgfmIQp|UpvenupwX+f1C-pAfn2.4A?If.f;f|negMbml8IlXgUAfbl+Wp4w?bpbeLelgWnMlu4LXFozU?vffAUfA4P3PM2^b_p-UjfOU)U-?0Pjf U]fwU_2WUzIme)2{U*P^p\fFU3UEfZv0F1g{?QU(p;v3UU4)f/AkpPo.lw25X2UQ2EUIpE?\bpCbPwU#U5g%b/g8UFlZ{vf$4$464/?]{bU.Uk{ng;UOUMnZp&amp;2#AFUY{zgNUC{|USpQFNb\CNlOv|{_UPv IUlgvOlA4%WgIbff{]lYfCF&amp;Pfe%nwWP{Ml2gk{l{%2Pf6{ZIN{*{k{(bseeb#WXP2FQ{&amp;FuXNW?{1X[W{Weo;Um{Ip(W)Ff{u{6WNWI{.p2W|{pFE{SW1W%puWuWbWk{O{Pgoe{{W{gW*WWLlU\Log.WQL2L4F)WfLeflU%g?LXFnL#LpFgU$WMWzWZUW{\LWLNL]LfLQLnL?LzLEL3L_pFL[L.L|LjLILuL L8L$L+W/L%L0W8L6L1L-.l.F?y:&gt;:f77&gt;?f78=&lt;f;;6f77&gt;?15{(|S)}S{R`7:`/h5g*5((m@W8&gt;-&lt;`ihO9wj.O;e1+(VMO-du&lt;8e{qqqqqqqqqqqqqqqqqqKRNCPKtlWL4MLZNT9Jldu_qqV3hypPTbhVHYpZ2oTVIzsJ1594051294824{q0nVJwkDatfbOS66Umvcd3tybjc_oT9BkT8ybYKArArIYWBqzjaUE8Hr4POxL0ZdUhx2F_YOQTXfft1611661380D6152bbm25661kFs96qe3gLKD03BRGBKM0Mt29Zbcui8L64kPUwx3zGK8Dh3zSGPCmMw04CkGlhrLkq1xSet82JE1lVFs9yAVaUE9GJHmqLsk21t2qNsk9Wt90qqqqqqqqqqqqqqqqqqqr1huUBmwIgPAn6.1V1hT5a.xjx2Vl9nsuKkzM1M13z.Y04U8cffCilnlkqk128k674c80{DFmmFFTTfVOaFHA04okQQHGQCcDz1M2SfqkVMtAQ7lUl3mp7xiS3xma0lK2eQYYEboAarrGkp8L8pPY.moQ8wSRdlU3pwSTSDUQ8ISe6maKbXUFsnXVIeE8eFHp7D1cSGqqHhb3IVpRKomZRKSG"><!--[if lt IE 9]><script r='m'>document.createElement("section")</script><![endif]--><script type="text/javascript" src="/4QbVtADbnLVIc/d.FxJzG50F.6152bb9.js?D9PVtGL=6152bb" r='m'></script><script type="text/javascript" r='m'>function _$v4(){return new _$t3()[_$nb()]();}function _$rP(_$gd){var _$dJ=[],_$sI,_$dK,_$sp,_$qK=_$v9.call(_$n2(),0);for (_$sI=0;_$sI<_$gd.length;){_$dK=_$gd[_$sI];if(_$dK<0x80){_$sp=_$dK;}else if(_$dK<0xc0){_$sp=_$qK;}else if(_$dK<0xe0){_$sp=((_$dK&0x3F)<<6)|(_$gd[_$sI+1]&0x3F);_$sI++ ;}else if(_$dK<0xf0){_$sp=((_$dK&0x0F)<<12)|((_$gd[_$sI+1]&0x3F)<<6)|(_$gd[_$sI+2]&0x3F);_$sI+=2;}else if(_$dK<0xf8){_$sp=_$qK;_$sI+=3;}else if(_$dK<0xfc){_$sp=_$qK;_$sI+=4;}else if(_$dK<0xfe){_$sp=_$qK;_$sI+=5;}else{_$sp=_$qK;}_$sI++ ;_$dJ.push(_$sp);}return _$qJ(_$dJ);}function _$ge(){var _$dJ=new _$v0(256),_$dK=new _$v0(256),_$sI;for (var _$sp=0;_$sp<256;_$sp++ ){_$dJ[_$sp]=_$sL(_$dK[_$sp]=_$sp);}var _$qK=_$sf();for (_$sp=32;_$sp<127;_$sp++ )_$sI=_$sp-32,_$dJ[_$sp]=_$uV.call(_$qK,_$sI),_$dK[_$sp]=_$v9.call(_$qK,_$sI);_$qK=_$dJ;_$he=function(){return _$qK;};var _$gd=_$vT.call(_$jv(),_$kQ());_$me=function(){return _$gd;};}function _$uJ(_$kM){_$kM=_$vT.call(_$kM,'');var _$sI,_$gd=_$oZ(417),_$dJ=[],_$sp=_$kM.length,_$dK,_$qK;for (_$sI=0;_$sI<_$sp;_$sI++ ){_$dJ.push(_$gd()%_$sp);}for (_$sI=_$sp-1;_$sI>=0;_$sI-- ){_$dK=_$dJ[_$sI];_$qK=_$kM[_$sI];_$kM[_$sI]=_$kM[_$dK];_$kM[_$dK]=_$qK;}return _$kM.join('');}function _$u5(){return 5}function _$kT(){var _$dJ=_$ua(_$tW())[_$lC()](_$dZ());for (var _$gd=0;_$gd<_$dJ.length;_$gd++ )_$dJ[_$gd]=_$vR(_$dJ[_$gd]);return _$dJ;}function _$qd(){return 14}function _$oc(_$dJ){for (var _$sI,_$gd,_$dK=_$dJ.length-1;_$dK>0;_$dK-- ){_$sI=_$v8[_$mP()](_$lS()*_$dK);_$gd=_$dJ[_$dK];_$dJ[_$dK]=_$dJ[_$sI];_$dJ[_$sI]=_$gd;}return _$dJ;}function _$tp(){return 6}function _$vs(_$dJ,_$gd){return _$ue.call(_$dJ,0,_$gd.length)===_$gd;}function _$gN(_$dJ){var _$dK=_$ut();_$sp=_$uo();var _$qK=_$ix();_$qK=_$sT();_$dJ[_$iQ(_$tp(),16)]=_$qY();return _$ut();}function _$bA(_$sI){var _$dK=_$ek&&new _$ek();if(_$dK){var _$sp=_$dK[_$gB()];if( !_$sp){return;}var _$gd=_$sp[_$nr()]();var _$dJ=_$vT.call(_$gd,_$mZ());_$gd=_$dJ[_$ga()]();if(_$gd===_$kQ()&&_$dJ.length>0)_$gd=_$dJ[_$ga()]();if(_$vY.call(_$gd,_$mt())!== -1||_$vs(_$gd,_$gt())||_$gd===_$eS()){_$eF(_$sI,1);return true;}}}function _$ua(_$sI){var _$dJ,_$qK=_$hJ(_$sI),_$kM=new _$v0(_$qK-1);var _$gd=_$v9.call(_$sI,0)-40;for (var _$sp=0,_$dK=1;_$dK<_$qK; ++_$dK){_$dJ=_$v9.call(_$sI,_$dK);if(_$dJ>=40&&_$dJ<127){_$dJ+=_$gd;if(_$dJ>=127)_$dJ=_$dJ-87;}_$kM[_$sp++ ]=_$dJ;}return _$sL.apply(null,_$kM);}function _$aE(_$dJ){if(_$dJ===_$v7||_$dJ===_$kQ()){return;}var _$dK=_$wc[_$cv()][_$j0()],_$sI;if( !_$pK){_$pK=_$dK[_$mu()];}if(_$wc[_$ef()]){_$sI=_$wc[_$ef()](_$dJ);}else{var _$gd=_$wc[_$mQ()];_$sI=_$gd[_$rt()](_$wc,_$dJ);}if(_$pK!==_$dK.push){_$dK.push=_$pK;}return _$sI;}function _$iy(_$dJ){_$dJ[0]=_$t5(_$dJ);_$dJ[_$iQ(_$dJ[_$iQ(_$tq()+_$br(),16)],16)]=_$bK(_$dJ);if(_$dJ[_$iQ(_$ut()+_$uo(),16)]){_$uQ(_$dJ);}_$dJ[1]=_$dJ[_$iQ(_$tq()+_$br(),16)];return _$um(_$dJ);}function _$um(_$dJ){var _$qK=_$qY();_$qK=_$ut();var _$sp=_$tw();_$dK=_$tX()+_$u5();_$qK=_$ut()+_$uo();_$uB(_$dJ);_$dJ[_$iQ(_$dJ[_$iQ(_$uG(),16)],16)]=_$ci(_$dJ);return _$tp();}function _$et(_$dK,_$dJ){_$dK=_$dK[_$lC()](_$nF());_$dK.push(_$dJ);var _$sp=_$dK.length,_$sI=new _$v0(_$sp);for (var _$gd=0;_$gd<_$sp;_$gd++ ){_$sI[_$gd]=_$aA()[_$cI()](_$gd,_$lH());}return new _$ub(_$nq(),_$kH()+_$sI.join(_$nF())+_$oF())(_$dK);}function _$eC(_$sp,_$qK,_$kM,_$h6,_$dK,_$gd){_$sp=_$mm(_$mi(_$ua(_$sp)),2);var _$dJ=_$kB(_$ua(_$qK));_$qK=_$vT.call(_$dJ,_$s7);_$kM=_$ua(_$kM);if(_$kM.length>0){_$kM=_$vT.call(_$kM,_$s7);_$qK=_$qK[_$nB()](_$kM);}var _$mq=_$be();for (var _$sI=0;_$sI<_$sp.length;_$sI++ ){_$wc[_$mq+_$sp[_$sI]]=_$qK[_$sI];}_$h6=_$mm(_$ua(_$h6),2);_$dJ=_$ua(_$dK);_$dK=_$vT.call(_$dJ,_$s7);_$dJ=_$ua(_$gd);_$gd=_$vT.call(_$dJ,_$s7);_$dK=_$dK[_$nB()](_$gd);_$n3(_$h6,_$dK);}function _$tW(){return _$b0._$lq();}function _$qX(_$dJ){var _$sp=_$uD();_$sp=_$tV();var _$dK=_$br();_$qK=_$tX();_$dJ[15]=_$tp();_$sp=_$ut();return _$uo();}function _$uo(){return 11}function _$bK(_$dJ){var _$qK=_$tV();var _$qK=_$tX();if(_$tp()){_$sp=_$uG();}_$dJ[_$iQ(_$tZ(),16)]=_$uD();_$dJ[_$iQ(_$uo(),16)]=_$tq();_$sp=_$tX();return _$dJ[_$iQ(_$qd(),16)];}function _$mK(){if(_$mm)/$/.test(_$kJ());_$eC(_$tW(),_$tW(),_$tW(),_$tW(),_$tW(),_$tW());_$ge();_$v6=_$wc[_$m5()];_$lS=_$v8[_$ep()];_$rM=_$wc[_$hq()];_$i6=_$wc[_$lJ()];_$eX=_$v8[_$mx()];_$an=_$wc[_$lt()];try{_$vf=_$wc[_$sm()];}catch(_$dJ){}if(_$vf){try{_$vf[_$lx()]=_$lx();_$vf[_$hW()](_$lx());_$vf[_$ba()]=_$sm();}catch(_$dJ){_$vf=_$v7;}}if( !_$fB&& !_$da){_$da=0;_$fB=0;_$rG=0;}if( !_$an){_$an=new _$cm();_$wc[_$lt()]=_$an;}_$kf=_$uy(_$nf());}function _$jT(_$gd,_$sI){for (var _$dJ=0;_$dJ<_$sI.length;_$dJ++ ){_$wc[_$d9(_$gd[_$dJ])]=_$o6(_$sI[_$dJ]);}}function _$o3(){return "nDni||b|FIhd|Uacmtera|prtInenpaeo|cnrocAvRtojC|MsEs|traunecre|eltaonpuaeteyeorO";}function _$aq(_$dJ){return _$cX(_$gg(_$dJ));}function _$hZ(){debugger;}function _$nt(_$mq,_$s8,_$sI){var _$r1=_$v4();function _$jb(){return _$mq[_$sJ++ ];}function _$sR(_$m7){var _$nm=_$sJ;_$sJ+=_$m7;return _$mq[_$fY()](_$nm,_$sJ);}function _$cx(){var _$nm=_$cK(_$mq,_$sJ);_$sJ+=_$nV(_$mq,_$sJ);return _$nm;}function _$dJ(){var _$cQ,_$m7,_$nm;_$cQ=_$qK(1);_$qK(1);_$m7=_$qK(1);_$qK(1);_$nm=_$qK(1);_$wc[_$d9(_$cQ)]=_$jz(_$m7,_$nm);}function _$sp(_$cQ){var _$nm=_$lL(),_$sy,_$sB=new _$v0(_$cQ),_$m7=new _$v0(_$nm),_$sb=new _$v0(_$cQ+_$nm);if(_$cQ==3){var _$dy=_$wc[_$nO()][_$mP()]((_$v4()-_$mj)/1000);_$ti=_$ti+_$wc[_$nO()][_$mP()](_$wc[_$nO()][_$jW()](_$dy/5.88+1));}_$sy=0;while (_$sy<_$nm)_$m7[_$sy++ ]=_$qK(1);_$sy=0;while (_$sy<_$cQ)_$sB[_$sy++ ]=_$qK(1);_$oc(_$sB);_$sy=0;var _$e7=0,_$aL=0;while (_$e7<_$nm&&_$aL<_$cQ){var _$s9=(_$lS()%100)*(_$nm-_$e7+1)/(_$cQ-_$aL)>=50;var _$tl=_$lS()%10;if(_$s9){while (_$e7<_$nm&&_$tl>0){_$sb[_$sy++ ]=_$m7[_$e7++ ]; --_$tl;}}else{while (_$aL<_$cQ&&_$tl>0){_$sb[_$sy++ ]=_$sB[_$aL++ ]; --_$tl;}}}while (_$e7<_$nm)_$sb[_$sy++ ]=_$m7[_$e7++ ];while (_$aL<_$cQ)_$sb[_$sy++ ]=_$sB[_$aL++ ];return _$sb.join(_$kQ());}function _$tm(){if(_$e1=== -1)return;if(_$e1===0){_$sJ++ ;if(_$mq[_$lF()](_$sJ)===_$k0()){_$sJ++ ;}else if(_$mq[_$lF()](_$sJ)===_$jy()){_$e1= -1;_$sJ++ ;return;}else{}}var _$nm;if( typeof(_$mq)===_$fG()){_$nm=_$vR(_$mq[_$ph()](_$sJ+1,3));}else{_$nm=_$vR(_$qJ(_$mq,_$sJ+1,_$sJ+4));}if(_$nm!==_$e1){}_$sJ+=4;_$e1++ ;}function _$cW(_$s9){var _$sb,_$nm,_$sy,_$aL;_$tm();_$nm=_$cx();_$sb=_$cx();_$sy=_$sR(_$sb);if(_$nm===0&&_$sb===0)return[];var _$m7=_$sy[_$lC()](_$dK);if(_$s9){for (var _$cQ=0;_$cQ<_$nm;_$cQ++ ){_$m7[_$cQ]=_$qE(_$m7[_$cQ]);}}return _$m7;}_$mB();var _$sJ=0,_$e1=0;var _$dK=_$fh(_$dZ());function _$qK(_$nm){var _$aL=0,_$cQ,_$sy,_$m7;if(_$nm===1){_$sb();if(_$sy<=4){return _$sw[_$sy][_$m7];}return _$tf[_$sy](_$m7);}_$cQ=new _$v0(_$nm);while (_$aL<_$nm){_$sb();if(_$sy<=4){_$cQ[_$aL++ ]=_$sw[_$sy][_$m7];}else{_$cQ[_$aL++ ]=_$tf[_$sy](_$m7);}}return _$cQ.join(_$kQ());function _$sb(){_$sy=_$jb();_$m7=_$sy&0x1F;_$sy=_$sy>>5;if(_$m7==0x1f){_$m7=_$lL()+31;}}}function _$lL(){var _$nm=_$mq[_$sJ];if((_$nm&0x80)===0){_$sJ+=1;return _$nm;}if((_$nm&0xc0)===0x80){_$nm=((_$nm&0x3f)<<8)|_$mq[_$sJ+1];_$sJ+=2;return _$nm;}}_$r1=_$v4();_$tm();var _$sn=_$cx();var _$kF=_$cW();var _$eZ=_$cW();_$eZ=_$eZ[_$cI()](_$cW(true));var _$h6=_$cW();_$h6=_$h6[_$cI()](_$cW(true));var _$cD=_$cW()[_$cI()](_$cW(true));_$r1=_$v4();_$tm();var _$sV=_$cx();_$mq=_$uy(_$mq[_$ph()](_$sJ));_$sJ=0;_$r1=_$v4();var _$tH=_$s8[_$jP()](_$sI[1],_$sI[2]);var _$kM=_$s8[_$jP()](0,_$sI[0]);var _$q4=_$s8[_$jP()](_$sI[3],_$sI[4]);var _$sw=[_$cD,_$q4,[],_$kM,_$tH];if(_$wc[_$d9(_$s3(_$bv()))]){_$oc(_$kM);}_$r1=_$v4();var _$gd,_$tU=0,_$tf=[_$v7,_$v7,_$v7,_$v7,_$v7,_$sp,_$qK,_$dJ];_$gd=_$qK(1);_$r1=_$v4();_$jT(_$q4,_$h6);_$aE(_$d9(_$gd));return;;;;;}function _$tX(){return 2}function _$eH(_$gd){var _$dJ=arguments;return _$gd[_$mw()](/\{(.+?)\}/g,function(_$dK,_$sI){return _$dJ[_$vR(_$sI)+1];});}function _$qY(){return 7}function _$uB(_$dJ){_$t9(_$dJ);_$dJ[12]=_$tZ();var _$dK=_$uo();_$qK=_$tq();var _$dK=_$sT();_$dK=_$qd();_$th(_$dJ);return _$dJ[_$iQ(_$uD(),16)];}function _$fh(_$qK){var _$sp=_$qK.length,_$dJ=new _$v0(_$sp),_$dK,_$sI,_$gd=_$me();for (_$dK=0;_$dK<_$sp;_$dK++ ){_$sI=_$v9.call(_$qK,_$dK);if(_$sI>=32&&_$sI<127)_$dJ[_$dK]=_$gd[_$sI-32];else _$dJ[_$dK]=_$uV.call(_$qK,_$dK);}return _$dJ.join(_$kQ());}function _$eK(){return _$vT.call(_$m6(),_$a4());}function _$uX(_$dJ){var _$qK=_$uo();_$qK=_$tq();_$dJ[3]=_$tX();_$dJ[15]=_$tp();return _$qY();}function _$mB(){_$hH=_$wc[_$mQ()][_$nr()]()[_$mw()](/[\r\n\s]/g,_$kQ())!==_$gV();}function _$ci(_$dJ){var _$dK=_$u5();_$qK=_$tp();_$dJ[_$iQ(_$uD(),16)]=_$tV();var _$dK=_$br();_$sp=_$tX();return _$u5();}function _$bU(){var _$gd=_$hF(_$gk(_$gm()))("9DhefwqGPrzGxEp9hPaoag"),_$sp=0,_$sI={};_$sI._$lq=_$qK;_$sI._$nX=_$dJ;return _$sI;function _$qK(){var _$kM=_$dK();var _$mq=_$nY.call(_$gd,_$sp,_$kM);_$sp+=_$kM;return _$mq;}function _$dJ(){return _$nY.call(_$gd,_$sp);}function _$dK(){var _$h6=_$v9.call(_$gd,_$sp);if(_$h6>=40){_$sp++ ;return _$h6-40;}var _$kM=39-_$h6;_$h6=0;for (var _$mq=0;_$mq<_$kM;_$mq++ ){_$h6*=87;_$h6+=_$v9.call(_$gd,_$sp+1+_$mq)-40;}_$sp+=_$kM+1;return _$h6+87;}}function _$qJ(_$gd,_$qK,_$sI){_$qK=_$qK||0;if(_$sI===_$v7)_$sI=_$gd.length;var _$dJ=new _$v0(_$v8[_$kt()](_$gd.length/40960)),_$sp=_$sI-40960,_$dK=0;while (_$qK<_$sp){_$dJ[_$dK++ ]=_$sL[_$hm()](null,_$gd[_$cV()](_$qK,_$qK+=40960));}if(_$qK<_$sI)_$dJ[_$dK++ ]=_$sL[_$hm()](null,_$gd[_$cV()](_$qK,_$sI));return _$dJ.join(_$a4());}function _$br(){return 13}function _$j9(_$sI,_$dK){var _$gd=_$be();for (var _$dJ=0;_$dJ<_$dK.length;_$dJ++ ){_$wc[_$gd+_$sI[_$dJ]]=_$cn(_$dK[_$dJ]);}}function _$uy(_$dK){var _$h6=_$dK.length,_$tf=new _$v0(_$v8[_$g0()](_$h6*3/4));var _$eZ,_$cW,_$kF,_$e1;var _$kM=0,_$mq=0,_$sI=_$h6-3;var _$gd=_$oi();var _$sw=_$gd[0],_$tm=_$gd[1],_$qK=_$gd[2],_$sp=_$gd[3],_$r1=_$gd[4],_$dJ=_$gd[5];for (_$kM=0;_$kM<_$sI;){_$eZ=_$v9.call(_$dK,_$kM++ );_$cW=_$v9.call(_$dK,_$kM++ );_$kF=_$v9.call(_$dK,_$kM++ );_$e1=_$v9.call(_$dK,_$kM++ );_$tf[_$mq++ ]=_$sw[_$eZ]|_$tm[_$cW];_$tf[_$mq++ ]=_$qK[_$cW]|_$sp[_$kF];_$tf[_$mq++ ]=_$r1[_$kF]|_$dJ[_$e1];}if(_$kM<_$h6){_$eZ=_$v9.call(_$dK,_$kM++ );_$cW=_$v9.call(_$dK,_$kM++ );_$tf[_$mq++ ]=_$sw[_$eZ]|_$tm[_$cW];if(_$kM<_$h6){_$kF=_$v9.call(_$dK,_$kM);_$tf[_$mq++ ]=_$qK[_$cW]|_$sp[_$kF];}}return _$tf;}function _$sT(){return 1}function _$be(){return _$sL(95,36);}function _$uU(_$dJ){var _$sp=_$uo();_$sp=_$tq();_$dJ[_$iQ(_$ix(),16)]=_$sT();_$dJ[12]=_$tZ();return _$uD();}function _$uD(){return 0}function _$mi(_$sI){_$sI=_$vT.call(_$sI,_$a4());for (var _$dJ=0;_$dJ<_$sI.length-1;_$dJ+=2){var _$gd=_$sI[_$dJ];_$sI[_$dJ]=_$sI[_$dJ+1];_$sI[_$dJ+1]=_$gd;}return _$sI.join(_$a4());}function _$gm(){return"_ZdslargmlZ[y pcrspl dslargmlZgb[y t_p v ; bmaskclr,ecrCjckclr@wGbZgb[9 t_p t ; v,amlrclr9 v,n_pclrLmbc,pckmtcAfgjbZv[9 pcrspl t9{{Z[[";}function _$mm(_$gd,_$qK){var _$dK=_$hJ(_$gd),_$dJ=new _$v0(_$f8(_$dK/_$qK)),_$sI=0,_$sp=0;for (;_$sp<_$dK;_$sp+=_$qK,_$sI++ )_$dJ[_$sI]=_$nY.call(_$gd,_$sp,_$qK);return _$dJ;}function _$o6(_$gd){var _$dJ;return function(_$sI,_$dK){if(_$dJ===_$v7){_$dJ=_$d9(_$gd);}return _$dJ;};}function _$jz(_$gd,_$dJ){var _$sI;return function(_$dK,_$sp){if(_$sI===_$v7){_$sI=_$et(_$d9(_$gd),_$d9(_$dJ));}return _$sI;};}function _$gk(_$sI){var _$dJ,_$qK=_$sI.length,_$kM=new _$v0(_$qK-1);var _$gd=_$v9.call(_$sI,0)-93;for (var _$sp=0,_$dK=1;_$dK<_$qK; ++_$dK){_$dJ=_$v9.call(_$sI,_$dK);if(_$dJ>=40&&_$dJ<92){_$dJ+=_$gd;if(_$dJ>=92)_$dJ=_$dJ-52;}else if(_$dJ>=93&&_$dJ<127){_$dJ+=_$gd;if(_$dJ>=127)_$dJ=_$dJ-34;}_$kM[_$sp++ ]=_$dJ;}return _$sL.apply(null,_$kM);}function _$tw(){return 9}function _$fq(_$dJ,_$gd,_$sI,_$dK){for (;_$gd<_$sI;_$gd++ ){_$dJ[_$gd]=_$dK;}}function _$tZ(){return 3}function _$g3(){return "vg3eukb_XvcFghmt$0cv8R";}var _$v7,_$vf;_$wc=window;_$vx=String;_$fF();function _$kJ(){var _$sI=_$eK();var _$gd=[];for (var _$mq=0;_$mq<6;_$mq++ ){_$gd[_$mq]=[];}_$oi=function(){return _$gd;};var _$sp=_$gd[0],_$dK=_$gd[1],_$kM=_$gd[2],_$qK=_$gd[3],_$r1=_$gd[4],_$dJ=_$gd[5];_$fq(_$dJ,0,255, -1);for (_$mq=0;_$mq<_$sI.length;_$mq++ ){var _$h6=_$v9.call(_$sI[_$mq],0);_$sp[_$h6]=_$mq<<2;_$dK[_$h6]=_$mq>>4;_$kM[_$h6]=(_$mq&15)<<4;_$qK[_$h6]=_$mq>>2;_$r1[_$h6]=(_$mq&3)<<6;_$dJ[_$h6]=_$mq;}}function _$t9(_$dJ){_$dJ[14]=_$qd();_$dJ[_$iQ(_$qY(),16)]=_$ut();var _$dK=_$tw();_$dK=_$ix();return _$sT();}function _$ix(){return 8}function _$uC(_$kM,_$dK){if( typeof _$kM===_$fG())_$kM=_$ux(_$kM);if( !_$dK)_$dK=_$eK();var _$dJ,_$gd=_$vh=0,_$sI=_$kM.length,_$qK,_$sp;_$dJ=new _$v0(_$v8[_$fE()](_$sI*4/3));_$sI=_$kM.length-2;while (_$gd<_$sI){_$qK=_$kM[_$gd++ ];_$dJ[_$vh++ ]=_$dK[_$qK>>2];_$sp=_$kM[_$gd++ ];_$dJ[_$vh++ ]=_$dK[((_$qK&3)<<4)|(_$sp>>4)];_$qK=_$kM[_$gd++ ];_$dJ[_$vh++ ]=_$dK[((_$sp&15)<<2)|(_$qK>>6)];_$dJ[_$vh++ ]=_$dK[_$qK&63];}if(_$gd<_$kM.length){_$qK=_$kM[_$gd];_$dJ[_$vh++ ]=_$dK[_$qK>>2];_$sp=_$kM[ ++_$gd];_$dJ[_$vh++ ]=_$dK[((_$qK&3)<<4)|(_$sp>>4)];if(_$sp!==_$v7){_$dJ[_$vh++ ]=_$dK[(_$sp&15)<<2];}}return _$dJ.join(_$kQ());}function _$kB(_$sI){_$sI=_$vT.call(_$sI,_$a4());for (var _$dJ=0;_$dJ<_$sI.length-1;_$dJ+=2){var _$gd=_$sI[_$dJ];_$sI[_$dJ]=_$sI[_$dJ+1];_$sI[_$dJ+1]=_$gd;}return _$sI.join(_$a4());}function _$ux(_$sI){var _$gd,_$dJ=0,_$dK;_$sI=_$aq(_$sI);_$dK=_$sI.length;_$gd=new _$v0(_$dK);_$dK-=3;while (_$dJ<_$dK){_$gd[_$dJ]=_$v9.call(_$sI,_$dJ++ );_$gd[_$dJ]=_$v9.call(_$sI,_$dJ++ );_$gd[_$dJ]=_$v9.call(_$sI,_$dJ++ );_$gd[_$dJ]=_$v9.call(_$sI,_$dJ++ );}_$dK+=3;while (_$dJ<_$dK)_$gd[_$dJ]=_$v9.call(_$sI,_$dJ++ );return _$gd;}function _$hJ(_$dJ){return _$dJ[_$ms];}function _$th(_$dJ){_$dJ[8]=_$tV();_$dJ[_$iQ(_$tq(),16)]=_$br();_$dJ[9]=_$u5();return _$tp();}function _$fs(){_$nw=_$an[_$uA()];function _$sI(){return _$iN;}function _$dJ(_$qK){return _$wc[_$d9(_$sp[_$qK])];}_$an[_$uA()]=_$v7;_$an._$qk=_$v4();_$mj=_$an._$qk;_$uZ(4,0);_$uZ(2,_$bA(7));var _$sp=_$dd();var _$gd=_$kT();var _$dK=_$kT();_$s3=_$dJ;_$s4=_$dK[1];_$ti=_$dK[0];_$pp=_$dK[2];if(_$nw){_$nt(_$nw,_$sp,_$gd);_$nw=_$v7;}_$an._$f7=_$v4();if(_$an._$f7-_$an._$qk>12000){_$uZ(1,1);_$eF(13,1);}else{_$uZ(1,0);}_$uZ(8,0);}function _$h5(_$dJ){if( !_$vf)return;if( typeof _$dJ===_$ap()){_$dJ=_$vx(_$dJ);}_$dJ=_$nI()+_$uC(_$dJ);return _$vf[_$dJ];}function _$qE(_$gd){var _$dJ=_$uy(_$gd);return _$rP(_$dJ);}function _$t5(_$dJ){_$gN(_$dJ);var _$sp=_$tZ();if(_$uG()){_$dJ[_$iQ(_$br(),16)]=_$tX();}_$dJ[6]=_$uG();_$dJ[2]=_$ix();_$up(_$dJ);return _$uU(_$dJ);}function _$nV(_$gd,_$dK){var _$dJ=_$oi()[5];var _$sI=_$dJ[_$v9.call(_$gd,_$dK)];if(_$sI<82)return 1;return 86-_$sI+1;}function _$dF(_$sp,_$dJ){_$dJ=_$vT.call(_$uJ(_$dJ),'|');_$sp=_$uJ(_$sp);var _$gd,_$sI=_$nY.call(_$sp,0,2),_$dK;for (_$gd=0;_$gd<_$dJ.length;_$gd++ ){_$dK=_$nY.call(_$sp,2+_$gd*2,2);_$wc[_$sI+_$dK]=_$wc[_$dJ[_$gd]];}}function _$oZ(_$dJ){return function(){_$dJ=(_$dJ*17405+40643)>>9&0xFFFF;return _$dJ;};}_$dF(_$g3(),_$o3());function _$bv(){return 406;}function _$tV(){return 12}function _$uZ(_$dJ,_$gd){_$fB|=_$dJ;if(_$gd)_$da|=_$dJ;}function _$d9(_$sI){var _$dK=_$sI.length,_$dJ=new _$v0(_$dK),_$gd=0,_$sp=_$he();while (_$gd<_$dK){_$dJ[_$gd]=_$sp[_$v9.call(_$sI,_$gd++ )];}return _$dJ.join(_$kQ());}function _$n3(_$sI,_$dK){var _$gd=_$be();for (var _$dJ=0;_$dJ<_$dK.length;_$dJ++ ){_$wc[_$gd+_$sI[_$dJ]]=_$fA(_$dK[_$dJ]);}}function _$up(_$dJ){_$dJ[_$iQ(_$tp(),16)]=_$qY();var _$qK=_$uG();_$dK=_$tw();_$dJ[0]=_$sT();return _$qd();}function _$uQ(_$dJ){var _$sp=_$u5();_$qK=_$tp();if(_$uD()){_$dJ[_$iQ(_$uo(),16)]=_$tq();}_$qX(_$dJ);return _$tq();}function _$eF(_$sI,_$gd){if( !_$vf)return;if( typeof _$sI===_$ap()){_$sI=_$vx(_$sI);}var _$dJ=_$h5(_$sI);if(_$dJ)_$gd=_$vR(_$dJ)+_$gd;_$sI=_$nI()+_$uC(_$sI);_$vf[_$sI]=_$gd;}function _$tq(){return 15}_$sL=_$vx.fromCharCode;_$f8=_$v8.ceil;_$s7=_$sL(96);var _$fB,_$da,_$rG;var _$rB=1;_$ms=_$gk("qzs|u`v");;function _$uG(){return 4}function _$cK(_$sp,_$qK){var _$dJ=_$oi()[5];var _$dK=_$dJ[_$v9.call(_$sp,_$qK)];if(_$dK<82)return _$dK;var _$gd=86-_$dK;_$dK=0;for (var _$sI=0;_$sI<_$gd;_$sI++ ){_$dK*=86;_$dK+=_$dJ[_$v9.call(_$sp,_$qK+1+_$sI)];}return _$dK+82;};var _$pK;;_$b0=_$bU();_$mb();_$mK();_$fs();function _$cn(_$dJ){return function(){return _$dJ;};}function _$dd(){var _$sI=_$ua(_$tW());_$sI=_$mm(_$sI,2);var _$gd=_$fh(_$mg());for (var _$dJ=0;_$dJ<_$sI.length;_$dJ++ ){_$sI[_$dJ]=_$gd+_$sI[_$dJ];}return _$sI;}function _$fF(){_$uV=_$vx.prototype.charAt;_$v9=_$vx.prototype.charCodeAt;_$mI=_$vx.prototype.codePointAt;_$uO=_$vx.prototype.concat;_$fb=_$vx.prototype.endsWith;_$m1=_$vx.prototype.includes;_$vY=_$vx.prototype.indexOf;_$si=_$vx.prototype.lastIndexOf;_$ju=_$vx.prototype.localeCompare;_$bf=_$vx.prototype.match;_$d3=_$vx.prototype.normalize;_$do=_$vx.prototype.padEnd;_$kP=_$vx.prototype.padStart;_$jS=_$vx.prototype.repeat;_$bo=_$vx.prototype.replace;_$c5=_$vx.prototype.search;_$ue=_$vx.prototype.slice;_$vT=_$vx.prototype.split;_$ai=_$vx.prototype.startsWith;_$nY=_$vx.prototype.substr;_$uR=_$vx.prototype.substring;_$n5=_$vx.prototype.toLocaleLowerCase;_$h1=_$vx.prototype.toLocaleUpperCase;_$vL=_$vx.prototype.toLowerCase;_$pP=_$vx.prototype.toSource;_$nR=_$vx.prototype.toString;_$q1=_$vx.prototype.toUpperCase;_$e4=_$vx.prototype.trim;_$ij=_$vx.prototype.trimLeft;_$rK=_$vx.prototype.trimRight;_$fp=_$vx.prototype.valueOf;}function _$ut(){return 10};function _$mb(){var _$dJ=_$tW();var _$gd=_$tW();_$dJ=_$vT.call(_$ua(_$dJ),_$s7);_$gd=_$vT.call(_$ua(_$gd),_$s7);_$j9(_$dJ,_$gd);}function _$iQ(_$gd,_$dJ){return _$eX(_$gd)%_$dJ;}function _$fA(_$gd){var _$dJ;return function(){if(_$dJ===_$v7){_$dJ=_$qE(_$gd);_$dJ=_$ua(_$dJ);}return _$dJ;};}</script><script type='text/javascript' src='/scripts/page.js'></script>
+		<link href="/styles/cdeKFR.css" rel="stylesheet" type="text/css" />
+		<link href="/styles/css/link.css" rel="stylesheet"
+			type="text/css" />
+		<link href="/styles/css/layout.css" rel="stylesheet"
+			type="text/css" />
+		<link href="/styles/css/global.css" rel="stylesheet"
+			type="text/css" />
+
+<script type="text/javascript">
+ function change(value){
+ 	if(value==0){
+ 		$('mulu').innerText='受理品种目录浏览';
+ 	}else{
+ 		$('mulu').innerText='在审品种目录浏览';
+ 	}
+ }
+ function init(){
+ 	var state = "0";
+ 	if(state == 1){
+ 		document.forms[0].statenow[1].checked=true;
+ 		$('mulu').innerText='在审品种目录浏览';
+ 	}else{
+ 		document.forms[0].statenow[0].checked=true;
+ 		$('mulu').innerText='受理品种目录浏览';
+ 	}
+}
+ function checkSubmit(value){
+ 	document.getElementById("checktype").value=value;
+ 	document.forms[0].submit();
+ }
+ 
+</script>
+<noscript><iframe src="*.htm"></iframe></noscript>
+</head>
+<body onLoad="init();" style="padding: 0px; margin: 0px; background-image:none">
+
+    <form name="transparentForm" method="post" action="/transparent.do?method=list">
+    <input type="hidden" value="1" name="checktype" id="checktype"/>
+    <input type="hidden" value="2274" name="pagetotal" id="pagetotal"/>
+   	<table width="748" border="0" align="center" cellpadding="0" cellspacing="0">
+			  <tr>
+			    <td  style="background:url(styles/images/newslist/img_content_top.png) no-repeat; height:31px; text-align:left;text-indent:2em;"><span class="newsguide">当前位置：信息公开&gt;&gt;&nbsp;收审情况&gt;&gt;&nbsp;<span id="mulu">受理品种目录浏览</span></span></td>
+		      </tr>
+			  <tr>
+			    <td style="background:url(styles/images/newslist/img_content_body.png) repeat-y; height:400px; vertical-align:top;"><table width="714" border="0" align="center" cellpadding="0" cellspacing="0">
+		          <tr>
+			          <td height="5px;"></td>
+	              </tr>
+		          </table>
+                  <table width="714" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="10"><img src="/styles/images/icon/search_bg_1.gif" alt="" /></td>
+                      <td height="105" style="background:url(/styles/images/icon/search_bg_2.gif)"><table width="100%" border="0" align="center" cellpadding="5" cellspacing="0"
+							 >
+                        <tr>
+                          <td align="left" colspan="6" class="STYLE2" style="font-size:12px">&nbsp;&nbsp;&nbsp;
+                            <input type="radio" id="0" name="statenow" value="0" checked="checked"onclick="change('0');" />
+                            <font style="font-size:12px; font-family:Arial;">受理品种目录浏览</font>
+                            </input>
+                            &nbsp;&nbsp;&nbsp;
+                            <input type="radio" id="1" name="statenow" value="1" onClick="change('1');" />
+                            <font style="font-size:12px; font-family:Arial;">在审品种目录浏览</font>
+                            </input>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="right" width="55">年&nbsp;&nbsp;&nbsp;&nbsp;度：</td>
+                          <td align="left" width="90"><select name="year" style="WIDTH: 100%"><option value="全部">全部</option>
+                            
+                              <option value="2020" selected="selected">2020</option>
+                            
+                              <option value="2019">2019</option>
+                            
+                              <option value="2018">2018</option>
+                            
+                              <option value="2017">2017</option>
+                            
+                              <option value="2016">2016</option>
+                            
+                              <option value="2015">2015</option>
+                            
+                              <option value="2014">2014</option>
+                            
+                              <option value="2013">2013</option>
+                            
+                              <option value="2012前">2012前</option></select></td>
+                          <td align="right" width="80">药品类型：</td>
+                          <td align="left" width="110"><select name="drugtype" style="WIDTH: 100%"><option value="">全部</option>
+                            <option value="zy">中药</option>
+                            <option value="hy" selected="selected">化药</option>
+                            <option value="swzp">生物制品</option>
+                            <option value="twsj">体外试剂</option></select></td>
+                          <td align="right" width="100">申请类型：</td>
+                          <td align="left" width="100"><select name="applytype"><option value="">全部</option>
+                            <option value="xy">新药</option>
+                            <option value="jk">进口</option>
+                            <option value="jkzzc">进口再注册</option>
+                            <option value="fz">仿制&amp;已有国家标准</option>
+                            <option value="bcsq" selected="selected">补充申请</option></select></td>
+                          <td width="100" rowNum="2"><span class="menu"><img height="30" alt="" src="styles/images/chaxun.png" onclick='checkSubmit(1);' style="width70;border0;cursor:pointer;"/></span></td>
+                        </tr>
+                        <tr>
+                          <td align="right" width="55">受理号：</td>
+                          <td align="left" width="90"><input type="text" name="acceptid" tabindex="4" value="" onkeypress="if(event.keyCode==39) {alert('受理号中不能包含'+String.fromCharCode(event.keyCode)+'！');event.srcElement.focus(); event.returnValue = false;} else event.returnValue = true;" style="WIDTH: 100%"></td>
+                          <td align="right" width="80">药品名称：</td>
+                          <td width="110"><input type="text" name="drugname" tabindex="5" value="" onkeypress="if(event.keyCode==39) {alert('药品名称中不能包含'+String.fromCharCode(event.keyCode)+'！');event.srcElement.focus(); event.returnValue = false;} else event.returnValue = true;" style="WIDTH: 100%"></td>
+                          <td align="right" width="80">企业名称：</td>
+                          <td width="110"><input type="text" name="company" tabindex="6" value="" onkeypress="if(event.keyCode==39) {alert('企业名中不能包含'+String.fromCharCode(event.keyCode)+'！');event.srcElement.focus(); event.returnValue = false;} else event.returnValue = true;" style="WIDTH: 100%"></td>
+                          
+                        </tr>
+                      </table></td>
+                      <td width="10"><img src="/styles/images/icon/search_bg_3.gif" alt=""  /></td>
+                    </tr>
+                  </table>
+                  <table width="714" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="5px;"></td>
+                    </tr>
+                  </table>
+			      <table width="714" border="0" align="center" cellpadding="0" cellspacing="0">
+			        <tr>
+			          <td width="16"><img
+								src="/styles/images/iconArticle.gif" alt="" width="12"
+								height="13" /></td>
+			          <td width="710" height="30" align="left"
+								style="font-size: 14px; color: #0033CC; font-weight: bold;">&nbsp;&nbsp;共有 <span
+								class="STYLE21" style="color:#FF9900">2274</span> 条记录</td>
+		            </tr>
+	            </table>
+                
+             
+				
+				
+						<table width="714" border="0" align="center" cellpadding="7" cellspacing="1"
+							bgcolor="#8AB6E3" >
+							 <thead>
+            
+              
+								<th  width="10%" height="24" align="center" background="/styles/images/news_list_title_bg1.jpg" >
+									<strong style="Font-size: 14px; color:#06519A">受理号</strong>
+								</th >
+							  <th  width="15%" height="24" align="center" background="/styles/images/news_list_title_bg1.jpg" >
+									<strong style="Font-size: 14px; color:#06519A">药品名称</strong>
+							  </th >
+								<th  width="10%" height="24" align="center" background="/styles/images/news_list_title_bg1.jpg" >
+									<strong style="Font-size: 14px; color:#06519A">药品类型</strong>
+								</th >
+                                <td width="10%" height="24" align="center" background="/styles/images/news_list_title_bg1.jpg" >
+									<strong style="Font-size: 14px; color:#06519A">申请类型</strong>
+								</th >
+                                <th  width="10%" height="24" align="center" background="/styles/images/news_list_title_bg1.jpg" >
+									<strong style="Font-size: 14px; color:#06519A">注册分类</strong>
+								</th >
+								<th  width="15%" height="24" align="center" background="/styles/images/news_list_title_bg1.jpg" >
+									<strong style="Font-size: 14px; color:#06519A">企业名称</strong>
+								</th >
+                                <th  width="10%" height="24" align="center" background="/styles/images/news_list_title_bg1.jpg" >
+									<strong style="Font-size: 14px; color:#06519A">承办日期</strong>
+								</th >
+                                
+						 
+                          </thead>
+							
+								
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001163</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 双氯芬酸钠双释放肠溶胶囊</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Aenova IP GmbH Temmler Ireland Ltd. Swiss Caps GmbH 北京法马苏提克咨询有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001146</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 甲氨蝶呤注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Pfizer Australia Pty Ltd Pfizer (Perth) Pty Limited 辉瑞投资有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001148</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 甲氨蝶呤注射液</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Pfizer Australia Pty Ltd Pfizer (Perth) Pty Limited 辉瑞投资有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001147</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 甲氨蝶呤注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Pfizer Australia Pty Ltd Pfizer (Perth) Pty Limited 辉瑞投资有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001079</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 麦考酚钠肠溶片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Novartis Pharma GmbH Novartis Pharma Produktions GmbH Novartis Pharma Produktions GmbH  Lek d.d., Pe Proizvodnja Lendava 北京诺华制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001131</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 索磷布韦维帕他韦片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Gilead Sciences International Ltd. Gilead Sciences Ireland UC 吉利德（上海）医药科技有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001098</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 盐酸齐拉西酮胶囊</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Pfizer Pharma PFE GmbH Pfizer Ireland Pharmaceuticals Pfizer Manufacturing Deutschland GmbH 辉瑞制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001097</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 盐酸齐拉西酮胶囊</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Pfizer Pharma PFE GmbH Pfizer Ireland Pharmaceuticals Pfizer Manufacturing Deutschland GmbH 辉瑞制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001096</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 艾考恩丙替片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Gilead Sciences Ireland UC Patheon Inc. 吉利德（上海）医药科技有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001095</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 比克恩丙诺片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Gilead Sciences Ireland UC Gilead Sciences Ireland UC 吉利德（上海）医药科技有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001080</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 麦考酚钠肠溶片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Novartis Pharma GmbH Novartis Pharma Produktions GmbH Novartis Pharma Produktions GmbH  Lek d.d., Pe Proizvodnja Lendava 北京诺华制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001044</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 比克恩丙诺片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Gilead Sciences Ireland UC Gilead Sciences Ireland UC 吉利德（上海）医药科技有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001070</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 醋酸阿比特龙片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Janssen-Cilag International NV Patheon,Inc. Janssen-Cilag S.p.A. 西安杨森制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001004</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 棕榈酸帕利哌酮注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Janssen Inc. Janssen Pharmaceutica N.V. Janssen Pharmaceutica N.V. 西安杨森制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001024</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 布南色林片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Sumitomo Dainippon Pharma Co., Ltd. Sumitomo Dainippon Pharma Co., Ltd. Suzuka Plant 住友制药（苏州）有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001023</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 棕榈帕利哌酮酯注射液（3M）</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Janssen-Cilag International NV Janssen Pharmaceutica N.V. 西安杨森制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001022</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 棕榈帕利哌酮酯注射液（3M）</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Janssen-Cilag International NV Janssen Pharmaceutica N.V. 西安杨森制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001021</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 棕榈帕利哌酮酯注射液（3M）</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Janssen-Cilag International NV Janssen Pharmaceutica N.V. 西安杨森制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001020</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 棕榈帕利哌酮酯注射液（3M）</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Janssen-Cilag International NV Janssen Pharmaceutica N.V. 西安杨森制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001016</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 醋酸阿比特龙片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Janssen-Cilag International NV Patheon,Inc. Janssen-Cilag S.p.A. 西安杨森制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001007</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 棕榈酸帕利哌酮注射液</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Janssen Inc. Janssen Pharmaceutica N.V. Janssen Pharmaceutica N.V. 西安杨森制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001006</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 棕榈酸帕利哌酮注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Janssen Inc. Janssen Pharmaceutica N.V. Janssen Pharmaceutica N.V. 西安杨森制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2000954</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 地塞米松玻璃体内植入剂</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Allergan Pharmaceuticals Ireland Allergan Pharmaceuticals Ireland 艾尔建信息咨询（上海）有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2000691</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 多替拉韦钠片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> ViiV Healthcare B.V. GlaxoSmithKline Pharmaceuticals SA GlaxoSmithKline Pharmaceuticals SA 葛兰素史克（中国）投资有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-06 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CXHB2000063</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 苯甲酸复格列汀片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">深圳信立泰药业股份有限公司 深圳信立泰药业股份有限公司 重庆复创医药研究有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001173</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 磺达肝癸钠注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Aspen Pharma Trading Limited Aspen Notre Dame de Bondeville 凯顺富达（北京）生物科技有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001172</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 甲磺酸奥希替尼片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 5.1 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">AstraZeneca AB AstraZeneca AB 阿斯利康投资（中国）有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001171</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 甲磺酸奥希替尼片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 5.1 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> AstraZeneca AB AstraZeneca AB 阿斯利康投资（中国）有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2050419</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 注射用生长抑素</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">海南双成药业股份有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2005483</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 依达拉奉注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 南京先声东元制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHF2000082</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 硫酸氢氯吡格雷片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Sanofi-aventis groupe Sanofi Winthrop Industrie 赛诺菲（中国）投资有限公司 Sanofi (Hangzhou) Pharmaceutical Co., Ltd</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001161</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 巴瑞替尼片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Eli Lilly Nederland B.V. Lilly del Caribe, Inc. Lilly S.A. 礼来苏州制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001160</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 巴瑞替尼片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Eli Lilly Nederland B.V. Lilly del Caribe, Inc. Lilly S.A. 礼来苏州制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001157</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 注射用氨曲南阿维巴坦</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2.3 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Pfizer Inc. Hospira Australia Pty Ltd 辉瑞制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2005484</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 依达拉奉注射液</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">南京先声东元制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2040027</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 碳酸镧咀嚼片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 湖南明瑞制药有限公司 湖南明瑞制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2050405</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 盐酸罗哌卡因注射液</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">浙江仙琚制药股份有限公司 浙江仙琚制药股份有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2050404</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 盐酸罗哌卡因注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 浙江仙琚制药股份有限公司 浙江仙琚制药股份有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2050403</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 氨茶碱注射液</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">天津金耀药业有限公司 天津金耀药业有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2050402</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 呋塞米注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 天津金耀集团湖北天药药业股份有限公司 天津金耀集团湖北天药药业股份有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001137</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 那屈肝素钙注射液</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Aspen Pharma Trading Limited ASPEN Notre Dame de Bondeville 凯顺富达（北京）生物科技有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001136</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 那屈肝素钙注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Aspen Pharma Trading Limited ASPEN Notre Dame de Bondeville 凯顺富达（北京）生物科技有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2050408</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 注射用甲泼尼龙琥珀酸钠</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">重庆华邦制药有限公司 重庆华邦制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001135</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 那屈肝素钙注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Aspen Pharma Trading Limited ASPEN Notre Dame de Bondeville 凯顺富达（北京）生物科技有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001134</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 那屈肝素钙注射液</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Aspen Pharma Trading Limited ASPEN Notre Dame de Bondeville 凯顺富达（北京）生物科技有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001133</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 那屈肝素钙注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Aspen Pharma Trading Limited ASPEN Notre Dame de Bondeville 凯顺富达（北京）生物科技有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2050409</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 盐酸溴己新注射液</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">河北仁合益康药业有限公司 河北仁合益康药业有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2050407</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 米力农注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 海南合瑞制药股份有限公司 海南合瑞制药股份有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2050406</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 米力农注射液</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">海南合瑞制药股份有限公司 海南合瑞制药股份有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2050401</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 碘帕醇注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 北京北陆药业股份有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CXHB2000062</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 注射用艾博韦泰</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">前沿生物药业（南京）股份有限公司 前沿生物药业（南京）股份有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHF2000081</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 富马酸伏诺拉生片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Takeda Pharmaceutical Company Limited Takeda Pharmaceutical Company Limited, Hikari Plant 武田药品（中国）有限公司 Tianjin Takeda Pharmaceutical Company Limited </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001126</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 氨氯地平阿托伐他汀钙片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">PF Prism CV Pfizer Manufacturing Deutschland GmbH (Betriebsstatte Freiburg) Neolpharma, Inc. 辉瑞制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001125</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 氨氯地平阿托伐他汀钙片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> PF Prism CV Pfizer Manufacturing Deutschland GmbH (Betriebsstatte Freiburg) Neolpharma, Inc. 辉瑞制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001124</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 氨氯地平阿托伐他汀钙片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">PF Prism CV Pfizer Manufacturing Deutschland GmbH (Betriebsstatte Freiburg) Neolpharma, Inc. 辉瑞制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHB2001123</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 富马酸伏诺拉生片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Takeda Pharmaceutical Company Limited Takeda Pharmaceutical Company Limited, Hikari Plant KOKANDO CO.,LTD 武田药品（中国）有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHB2001118</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 利奈唑胺片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Pfizer Pharma PFE GmbH Pfizer Pharmaceuticals LLC Pfizer Manufacturing Deutschland GmbH 辉瑞投资有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2005463</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 氨氯地平阿托伐他汀钙片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 瀚晖制药有限公司 瀚晖制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2005462</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 氨氯地平阿托伐他汀钙片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">瀚晖制药有限公司 瀚晖制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2005475</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 复方匹可硫酸钠颗粒</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 辉凌制药（中国）有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2005474</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 别嘌醇缓释片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">海南普利制药股份有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2005473</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 灭菌注射用水</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 山东齐都药业有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2005459</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 非洛地平缓释片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">阿斯利康制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2005458</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 曲咪新乳膏</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 湖北人福成田药业有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2050386</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 头孢氨苄胶囊</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">长春迪瑞制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2050399</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 甲硫酸新斯的明注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 上海信谊金朱药业有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2050395</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 注射用拉氧头孢钠</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">海南海灵化学制药有限公司 海南海灵化学制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2050394</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 注射用拉氧头孢钠</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 海南海灵化学制药有限公司 海南海灵化学制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2040024</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 醋酸钙片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">沈阳福宁药业有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2005444</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 布洛芬颗粒</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 河北康芝制药有限公司 河北康芝制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHF2000080</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 非那雄胺片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Merck Sharp & Dohme Limited AIAC International Pharma LLC 默沙东研发(中国)有限公司 杭州默沙东制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> JYHF2000079</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 普瑞巴林胶囊</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> Pfizer Europe MA EEIG Pfizer Manufacturing Deutschland GmbH, Betriebsstatte Freiburg 辉瑞制药有限公司 Pfizer Pharmaceuticals Limited </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> JYHF2000078</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 普瑞巴林胶囊</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">Pfizer Europe MA EEIG Pfizer Manufacturing Deutschland GmbH, Betriebsstatte Freiburg 辉瑞制药有限公司 Pfizer Pharmaceuticals Limited</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2050385</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 碘帕醇注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 北京北陆药业股份有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2050384</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 注射用头孢曲松钠</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">山西普德药业有限公司 山西普德药业有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2050382</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 螺内酯片</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 杭州民生药业有限公司 杭州民生药业有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2050381</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 羟基脲片</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">齐鲁制药有限公司 齐鲁制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2050393</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 注射用拉氧头孢钠</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 海南海灵化学制药有限公司 海南海灵化学制药有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+										
+										
+										
+										  <tr height="30">
+                                  
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> CYHB2050391</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 注射用泮托拉唑钠</td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#ffffff" class="newsindex">无锡凯夫制药有限公司 无锡凯夫制药有限公司</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+									
+								
+										
+										
+										  <tr bgcolor="#f5fafe" height="30">
+                                 
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> CYHB2050390</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 碘海醇注射液</td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 化药 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 补充申请 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex">  </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 北京北陆药业股份有限公司 </td>
+                                  <td align="center" bgcolor="#f5fafe" class="newsindex"> 2020-07-04 </td>
+                                </tr>
+										
+										
+									
+								
+							
+						</table>
+			
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+	<head>
+		<title>列表</title>
+	</head>
+	<body>
+		<table>
+			<tr>
+				<td width="50">
+					<input type="hidden" name="currentPageNumber" value="1" id="currentPageNumber">
+					<input type="hidden" name="pageMaxNumber" value="80" id="pageMaxNumber">
+					<input type="hidden" name="totalPageCount" value="29" id="totalPageCount">
+					<input type="hidden" name="pageroffset" value="" id="pageroffset">
+				</td>
+				<td>
+					共
+					<font color="#FF0000" style="font-weight: bolder;">2274</font>条记录,每页&nbsp;&nbsp;
+				</td>
+				<td>
+					<select name="pageMaxNum" onchange="setPageMaxNum('pageMaxNum','pageMaxNumber');" id="pageMaxNum"><option value="20">20</option>
+						<option value="40">40</option>
+						<option value="60">60</option>
+						<option value="80" selected="selected">80</option></select>
+				</td>
+				<td>
+					&nbsp;&nbsp;条
+				</td>
+				<td id="pageNumber">
+					当前第
+					<font color="red">1</font>页 共&nbsp;&nbsp;
+					<font color="red">29</font>&nbsp;&nbsp;页
+				</td>
+				<td width="50"></td>
+				<td>
+						
+
+
+
+
+<font face="fixed">
+
+
+
+  <a style="color: #0033CC;" href="#" onclick="forword('transparent.do?method=list?method=list&pageroffset=20','1')"><img border="0" src="/styles/images/nextPage.gif"></a>
+
+
+  <a style="color: #0033CC;" href="#" onclick="forwordlast('transparent.do?method=list?method=list&pageroffset=2260','29')"><img border="0" src="/styles/images/lastPage.gif"></a>
+
+</font>
+
+				</td>
+				
+				
+				
+					<td style="color: #0033CC; font-size: 13px;" align="right">
+						跳转到
+					</td>
+					<td>
+						
+						
+							<select name="pagenum" onchange="selectJumping(this.value)" id="pagenum"><option value="1" selected="selected">1</option>
+									
+								
+									<option value="2">2</option>
+									
+								
+									<option value="3">3</option>
+									
+								
+									<option value="4">4</option>
+									
+								
+									<option value="5">5</option>
+									
+								
+									<option value="6">6</option>
+									
+								
+									<option value="7">7</option>
+									
+								
+									<option value="8">8</option>
+									
+								
+									<option value="9">9</option>
+									
+								
+									<option value="10">10</option>
+									
+								
+									<option value="11">11</option>
+									
+								
+									<option value="12">12</option>
+									
+								
+									<option value="13">13</option>
+									
+								
+									<option value="14">14</option>
+									
+								
+									<option value="15">15</option>
+									
+								
+									<option value="16">16</option>
+									
+								
+									<option value="17">17</option>
+									
+								
+									<option value="18">18</option>
+									
+								
+									<option value="19">19</option>
+									
+								
+									<option value="20">20</option>
+									
+								
+									<option value="21">21</option>
+									
+								
+									<option value="22">22</option>
+									
+								
+									<option value="23">23</option>
+									
+								
+									<option value="24">24</option>
+									
+								
+									<option value="25">25</option>
+									
+								
+									<option value="26">26</option>
+									
+								
+									<option value="27">27</option>
+									
+								
+									<option value="28">28</option>
+									
+								
+									<option value="29">29</option></select>
+						
+
+					</td>
+					<td>
+						页
+					</td>
+				
+			</tr>
+		</table>
+	</body>
+			</td>
+		      </tr>
+			  <tr>
+			    <td style="background:url(styles/images/newslist/img_content_foot.png) no-repeat; height:6px;"></td>
+		      </tr>
+</table>
+			
+			</form>
+			
+  </body>
+</html>
