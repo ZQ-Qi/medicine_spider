@@ -102,6 +102,10 @@ class Spider(object):
         self.debug_proxies = {}
         # self.debug_proxies = {"http":"http://localhost:11111", 'https':"https://localhost:11111"}
     
+    def set_proxy(self):
+        self.proxies_url = requests.get("http://127.0.0.1:5010/get/").json().get("proxy")
+        self.proxies = {"http": "http://{}".format(self.proxies_url)}
+
     def requests_post(self, url, data={}, headers={}, cookies={}, proxies={}, timeout=5, **extra):
         try:
             response = requests.post(url, data=data, headers=headers, cookies=cookies, proxies=self.proxies, timeout=timeout, **extra)
@@ -114,8 +118,9 @@ class Spider(object):
                 if self.proxies_retry <= 0:  # 判断现有代理是否已经超出重试次数
                     if self.proxies_url:  # 删除无效代理
                         requests.get("http://127.0.0.1:5010/delete/?proxy={}".format(self.proxies_url))
-                    self.proxies_url = requests.get("http://127.0.0.1:5010/get/").json().get("proxy")
-                    self.proxies = {"http": "http://{}".format(self.proxies_url)}
+                    # self.proxies_url = requests.get("http://127.0.0.1:5010/get/").json().get("proxy")
+                    # self.proxies = {"http": "http://{}".format(self.proxies_url)}
+                    self.set_proxy()
                     print("更新代理:{}".format(self.proxies))
                     self.proxies_retry = 5 # 重置剩余重试次数
                 try:
@@ -141,8 +146,9 @@ class Spider(object):
                 if self.proxies_retry <= 0:  # 判断现有代理是否已经超出重试次数
                     if self.proxies_url:  # 删除无效代理
                         requests.get("http://127.0.0.1:5010/delete/?proxy={}".format(self.proxies_url))
-                    self.proxies_url = requests.get("http://127.0.0.1:5010/get/").json().get("proxy")
-                    self.proxies = {"http": "http://{}".format(self.proxies_url)}
+                    # self.proxies_url = requests.get("http://127.0.0.1:5010/get/").json().get("proxy")
+                    # self.proxies = {"http": "http://{}".format(self.proxies_url)}
+                    self.set_proxy()
                     print("更新代理:{}".format(self.proxies))
                     self.proxies_retry = 5 # 重置剩余重试次数
                 try:
@@ -422,6 +428,7 @@ class Spider(object):
         return datalist
     
     def get_yaopinmulu(self, task="新标准"):
+        self.set_proxy()
         print("开始抓取药品目录-{}数据...".format(task))
         taskType = "按化学药品新注册分类批准的仿制药" if task == "新标准" else "通过质量和疗效一致性评价的药品"
         datalist = []
