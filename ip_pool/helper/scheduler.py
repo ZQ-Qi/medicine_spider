@@ -16,11 +16,12 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 from apscheduler.executors.pool import ProcessPoolExecutor
 
 from util.six import Queue
+from helper.proxy import Proxy
 from helper.fetch import runFetcher
 from helper.check import runChecker
-from helper.proxy import Proxy
 from handler.logHandler import LogHandler
 from handler.proxyHandler import ProxyHandler
+from handler.configHandler import ConfigHandler
 
 
 def runProxyFetch():
@@ -44,8 +45,9 @@ def runProxyCheck():
 def runScheduler():
     runProxyFetch()
 
+    timezone = ConfigHandler().timezone
     scheduler_log = LogHandler("scheduler")
-    scheduler = BlockingScheduler(logger=scheduler_log)
+    scheduler = BlockingScheduler(logger=scheduler_log, timezone=timezone)
 
     scheduler.add_job(runProxyFetch, 'interval', minutes=4, id="proxy_fetch", name="proxy采集")
     scheduler.add_job(runProxyCheck, 'interval', minutes=2, id="proxy_check", name="proxy检查")
@@ -59,7 +61,7 @@ def runScheduler():
         'max_instances': 10
     }
 
-    scheduler.configure(executors=executors, job_defaults=job_defaults)
+    scheduler.configure(executors=executors, job_defaults=job_defaults, timezone=timezone)
 
     scheduler.start()
 

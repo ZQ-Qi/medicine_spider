@@ -160,14 +160,19 @@ class ProxyFetcher(object):
                 pass
 
     @staticmethod
-    def freeProxy05():
+    def freeProxy05(page_count=1):
         """
         快代理 https://www.kuaidaili.com
         """
-        url_list = [
-            'https://www.kuaidaili.com/free/inha/',
-            'https://www.kuaidaili.com/free/intr/'
+        url_pattern = [
+            'https://www.kuaidaili.com/free/inha/{}/',
+            'https://www.kuaidaili.com/free/intr/{}/'
         ]
+        url_list = []
+        for page_index in range(1, page_count + 1):
+            for pattern in url_pattern:
+                url_list.append(pattern.format(page_index))
+
         for url in url_list:
             tree = WebRequest().get(url).tree
             proxy_list = tree.xpath('.//table//tr')
@@ -229,7 +234,7 @@ class ProxyFetcher(object):
         :return:
         """
         for i in range(1, page_count + 1):
-            url = 'http://ip.jiangxianli.com/?country=中国&?page={}'.format(i)
+            url = 'http://ip.jiangxianli.com/?country=中国&page={}'.format(i)
             html_tree = WebRequest().get(url).tree
             for index, tr in enumerate(html_tree.xpath("//table//tr")):
                 if index == 0:
