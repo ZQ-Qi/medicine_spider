@@ -9,7 +9,7 @@
 ### Anaconda
 本项目基于Python3.8，建议直接安装Python的发行版[Anaconda3](https://www.anaconda.com/products/individual)。
 
-安装过程可以参考网上的教程文章。
+安装过程可以参考网上的教程文章，并更改conda源和pip源至国内节点。
 
 安装完成后，终端执行python能够进入Python交互界面即可。
 
@@ -39,7 +39,9 @@ pip install -r req_extend.txt
 若不借助VSCode等IDE工具，直接在项目根目录下执行`python ./main.py`也可正常运行
 
 ## 更新IP代理池脚本
-为使输出窗口输出的内容更加简洁，对原`ip_pool`项目的日志级别进行调整，减少ip代理池在python输出窗口的无用输出。
+ip_pool通过抓取在线的免费代理节点，收集免费的代理节点并通过切换IP代理的方式避免爬取过程中封禁IP的问题。因为代理池是在线的，部分代理源可能在一段时间后失效导致ip_pool抓取到的可用节点变少甚至失效。对此，可通过更新ip_pool模块来解决问题。
+
+为使输出窗口输出的内容更加简洁，本程序已对原`ip_pool`项目的日志级别进行调整，减少ip代理池在python输出窗口的无用输出。
 
 若要更新ip_pool项目，下载[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)项目代码，并直接覆盖于`.\ip_pool\`文件夹内。
 
