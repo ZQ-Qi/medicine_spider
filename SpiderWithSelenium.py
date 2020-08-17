@@ -1,3 +1,15 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File    :   SpiderWithSelenium.py
+@Time    :   
+@Author  :   QI ZHIQIANG 
+@Version :   1.0
+@Contact :   153089761@qq.com
+@License :   (C)Copyright
+@Desc    :   使用Selenium模拟浏览器抓取一致性、送达、受理目录数据
+'''
+
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from bs4 import BeautifulSoup
@@ -10,6 +22,8 @@ import ExcelModule
 
 class SpiderWithSelenium(object):
     def __init__(self, proxy=""):
+        """初始化，创建浏览器对象，并设置初始参数
+        """
         options = webdriver.ChromeOptions()
         options.add_argument('--proxy-server={}'.format(proxy))
         options.add_experimental_option("excludeSwitches", ["enable-automation"])
@@ -24,10 +38,12 @@ class SpiderWithSelenium(object):
         })
     
     def close(self):
+        """控制浏览器退出"""
         print("进程结束，退出浏览器")
         self.driver.quit()
     
     def __checkLamp(self, td_lamp):
+        """根据网页表格指示灯的状态判断进度指示"""
         length = len(td_lamp.contents)
         if length == 1:
             return 1  # 空白 本专业未启动
@@ -42,11 +58,13 @@ class SpiderWithSelenium(object):
             return 9 # 异常
             
     def __waiting(self):
+        """为避免过早触发反扒机制，在每次访问网页后设定一个随机等待时间"""
         wait_time = random.randint(3,8)
         print("等待{}s".format(wait_time))
         time.sleep(wait_time)
 
     def getYizhixingData(self, task="xb"):
+        """获取一致性数据，一致性数据分为【新报】(task="xb")和【补充】(task="fb")"""
         taskType = "xb" if task == "xb" else "fb"
         task = "新报" if taskType == "xb" else "补充"
         print("开始抓取一致性数据({})...".format(taskType))
@@ -110,7 +128,7 @@ class SpiderWithSelenium(object):
         return len(datalist) >= 900 and interval.days > 70
 
     def getSongdaData(self):
-        """送达数据 
+        """获取送达数据
         """
         print("开始抓取送达数据...")
         datalist = []
@@ -157,6 +175,8 @@ class SpiderWithSelenium(object):
         return datalist
 
     def getShoulimuluData(self):
+        """获取受理目录数据
+        """
         print("开始抓取受理目录数据...")
         datalist = []
         header = ['受理号', '药品名称', '药品类型', '申请类型', '注册分类', '企业名称', '承办日期']

@@ -7,7 +7,7 @@
 @Version :   1.0
 @Contact :   153089761@qq.com
 @License :   (C)Copyright
-@Desc    :   None
+@Desc    :   抓取浏览器Cookies并构造Requests请求，对数据进行抓取。由于CDE反扒机制过于严格，多数情况下无法正常抓取，故放弃本方案
 '''
 import os
 import time

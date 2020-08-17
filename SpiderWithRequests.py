@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+
 import time
 import random
 from bs4 import BeautifulSoup
@@ -77,8 +80,6 @@ class SpiderWithRequests(object):
                 if self.proxies_retry <= 0:  # 判断现有代理是否已经超出重试次数
                     if self.proxies_url:  # 删除无效代理
                         requests.get("http://127.0.0.1:5010/delete/?proxy={}".format(self.proxies_url))
-                    # self.proxies_url = requests.get("http://127.0.0.1:5010/get/").json().get("proxy")
-                    # self.proxies = {"http": "http://{}".format(self.proxies_url)}
                     self.set_proxy()
                     print("更新代理:{}".format(self.proxies))
                     self.proxies_retry = 5 # 重置剩余重试次数
