@@ -3,10 +3,6 @@
 '''
 @File    :   ExcelModule.py
 @Time    :   2020/07/05 23:32:33
-@Author  :   QI ZHIQIANG 
-@Version :   1.0
-@Contact :   153089761@qq.com
-@License :   (C)Copyright
 @Desc    :   存储表格到Excel
 '''
 

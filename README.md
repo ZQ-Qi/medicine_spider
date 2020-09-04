@@ -31,21 +31,21 @@ pip install -r req_extend.txt
 具体可以参考文章：[windows下安装和配置Redis](https://www.jianshu.com/p/e16d23e358c0)
 
 ### VSCode(可选)
-本程序使用VSCode开发，建议也使用VSCode环境运行和调试
+本程序使用VSCode开发
 
 ## 使用
-使用VSCode打开文件夹（Open Folder),运行`main.py`即可自动抓取数据（注：部分数据的爬取过程需要借助浏览器模拟，相关工作完成后会自动关闭，请勿随意关闭浏览器窗口）
+使用VSCode打开文件夹（Open Folder),运行`main.py`即可（注：部分数据的爬取过程需要借助浏览器模拟，相关工作完成后会自动关闭，请勿随意关闭浏览器窗口）
 
 若不借助VSCode等IDE工具，直接在项目根目录下执行`python ./main.py`也可正常运行
 
 ## 更新IP代理池脚本
 ip_pool通过抓取在线的免费代理节点，收集免费的代理节点并通过切换IP代理的方式避免爬取过程中封禁IP的问题。因为代理池是在线的，部分代理源可能在一段时间后失效导致ip_pool抓取到的可用节点变少甚至失效。对此，可通过更新ip_pool模块来解决问题。
 
-为使输出窗口输出的内容更加简洁，本程序已对原`ip_pool`项目的日志级别进行调整，减少ip代理池在python输出窗口的无用输出。
+为使输出窗口输出的内容更加简洁，对原`ip_pool`项目的日志级别进行调整，减少ip代理池在python输出窗口的无用输出。
 
 若要更新ip_pool项目，下载[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)项目代码，并直接覆盖于`.\ip_pool\`文件夹内。
 
-配置IP代理池的数据库端口。编辑`.\ip_pool\setting.py`，修改`DB_CONN`如下
+配置IP代理池的数据库端口。编辑`.\ip_pool\setting.py`，修改`DB_CONN`如下（若Redis未采用默认端口安装，更改为对应端口）
 ```
 DB_CONN = 'redis://:@127.0.0.1:6379/0'
 ```

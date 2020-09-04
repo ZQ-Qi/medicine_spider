@@ -3,10 +3,6 @@
 '''
 @File    :   SpiderWithRequests.py
 @Time    :   
-@Author  :   QI ZHIQIANG 
-@Version :   1.0
-@Contact :   153089761@qq.com
-@License :   (C)Copyright
 @Desc    :   使用Requests抓取药品目录数据，并使用代理池的代理加速抓取（由于页面过多，若不使用代理，即使设置随机等待时间，仍然有几率触发反扒，浪费时间）
 '''
 

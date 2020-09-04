@@ -3,11 +3,7 @@
 '''
 @File    :   main.py
 @Time    :   2020/07/05 23:53:29
-@Author  :   QI ZHIQIANG 
-@Version :   1.0
-@Contact :   153089761@qq.com
-@License :   (C)Copyright
-@Desc    :   None
+@Desc    :   程序入口
 '''
 
 # import Spider

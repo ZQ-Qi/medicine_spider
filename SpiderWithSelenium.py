@@ -3,10 +3,6 @@
 '''
 @File    :   SpiderWithSelenium.py
 @Time    :   
-@Author  :   QI ZHIQIANG 
-@Version :   1.0
-@Contact :   153089761@qq.com
-@License :   (C)Copyright
 @Desc    :   使用Selenium模拟浏览器抓取一致性、送达、受理目录数据
 '''
 
