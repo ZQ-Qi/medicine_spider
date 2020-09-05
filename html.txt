@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv=”X-UA-Compatible” content=”IE=edge,chrome=1″ />
+	<meta name="renderer" content="webkit">
+	<title>中国上市药品目录集-首页</title>
+  <link rel="icon" href="http://www.cde.org.cn/favicon.ico" type="image/x-icon"/>
+	<!--[if lt IE 9]>
+	<script type="text/javascript" src="/static/js/dep/html5shiv.js"></script>
+	<![endif]-->
+	<link rel="stylesheet" href="/static/css/jquery-ui.min.css">
+	<link rel="stylesheet" href="/static/css/lists.css">
+</head>
+<body>
+	<!-- 显示部分容器 -->
+	<div id="container">
+
+		<!-- 页面头部开始 -->
+		<header class="header">
+			<h1>中国上市药品目录集</h1>
+		</header>
+		<!-- 页面头部结束 -->
+
+		<!-- 页面导航开始 -->
+    <nav class="ui-top-navwap">
+      <ul class="ui-top-nav clearfix">
+        <li class="item"><a href="/">首页</a></li>
+        <li class="item">
+          <a href="/index/lists" class="nav-current">目录集</a>
+          <ul class="subnav">
+            <li><a href="/index/lists">药品目录集</a></li>
+            <li><a href="/index/instruction">说明书信息</a></li>
+            <!-- <li><a href="/index/review">审评报告</a></li> -->
+          </ul>
+        </li>
+        <li class="item"><a href="/index/news">通知公告</a></li>
+        <li class="item">
+          <a href="/about/preface">关于目录集</a>
+          <ul class="subnav">
+            <li><a href="/about/preface">前言</a></li>
+            <li><a href="/about/guide">使用指南</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <!-- 页面导航结束 -->
+
+		<!-- 页面主体内容开始 -->
+		<section class="main clearfix">
+			<div class="router">
+				当前位置 &gt;&gt; <span class="router-current">目录集</span>&gt;&gt; <span class="router-current">药品目录集</span>
+			</div>
+			<!-- 主体内容上部表单开始 -->
+			<form action="/index/lists" method="get">
+				<div class="clearfix">
+          <!-- 左边搜索开始 -->
+          <div class="left-search fl">
+            <div class="form-group">
+              <label for="">药品名称：</label>
+              <input name="ypmc" type="text" placeholder="中文或英文" value="">
+            </div>
+            <div class="form-group">
+              <label for="">商品名：</label>
+              <input name="spm" type="text" placeholder="中文或英文" value="">
+            </div>
+            <div class="form-group">
+              <label for="">活性成分：</label>
+              <input name="hxcf" type="text" placeholder="中文或英文" value="">
+            </div>
+            
+            <div class="form-group">
+              <label for="">批准文号/注册证号：</label>
+              <input name="pzwh" type="text" value="">
+            </div>
+
+
+            <div class="form-group">
+              <label for="">规格：</label>
+              <input name="gg" type="text" value="">
+            </div>
+            
+            <div class="form-group">
+              <label for="">剂型：</label>
+              <input name="jx" type="text" value="">
+            </div>
+            
+            <div class="form-group">
+              <label for="">给药途径：</label>
+              <input name="gytj" type="text" value="">
+            </div>
+          </div>
+          <!-- 左边搜索结束 -->
+          <!-- 右边搜索开始 -->
+          <div class="right-search fl">
+            <div class="form-group">
+              <label for="">批准日期：</label>
+              <input name="scpzrq_start" class="input-m" type="text" value="1990-11-01"><span style="padding: 0px 4px;">-</span><input name="scpzrq_end" class="input-m" type="text" value="2025-12-01">
+            </div>   
+
+
+            <div class="form-group">
+              <label for="">ATC编码：</label>
+              <input name="jpxzl" type="text" value="">
+            </div>
+
+            <div class="form-group">
+              <label for="">生产厂商：</label>
+              <input name="sccs" type="text" value="">
+            </div>
+            
+            <div class="form-group">
+              <label for="">上市许可持有人：</label>
+              <input name="ssxkzcyr" type="text" value="">
+            </div>
+            
+            <div class="form-group">
+              <label for="">上市销售状况：</label>
+              <select name="ssxszt" id="ssxszt">
+                <option value="">全部</option>
+                                <option value="暂停销售" >暂停销售</option>
+                                <option value="上市销售中" >上市销售中</option>
+                                <option value="新批准暂未销售" >新批准暂未销售</option>
+                              </select>
+            </div>
+            
+            <div class="form-group">
+              <label for="">收录类别：</label>
+              <select name="sllb" id="">
+                <option value="">全部</option>
+                                <option value="进口原研药品 " >进口原研药品 </option>
+                                <option value="按化学药品新注册分类批准的仿制药" >按化学药品新注册分类批准的仿制药</option>
+                                <option value="创新药" >创新药</option>
+                                <option value="其他药品" >其他药品</option>
+                                <option value="通过质量和疗效一致性评价的药品" selected>通过质量和疗效一致性评价的药品</option>
+                              </select>
+            </div>
+
+             <div class="form-group">
+              <label for="">参比制剂：</label>
+              <select name="cbzj" id="">
+                <option value="">全部</option>
+                <option value="是" >是</option>
+                <option value="否" >否</option>
+              </select>
+            </div>
+			
+
+          </div>
+          <!-- 右边搜索结束 -->
+          
+        </div>
+				<div class="form-handler">
+					<button type="submit">查询</button>
+					<button class="reset" type="reset">重置</button>
+				</div>
+				<div class="form-output">
+					<button>导出</button>
+				</div>
+			</form>
+			<!-- 主体内容上部表单结束 -->
+		
+			<div class="showBox">
+							<!-- 暂无数据开始 -->
+				<div class="noData">
+					<img src="/static/images/noData.png">
+					<p>暂无数据</p>
+				</div>
+								<!-- 暂无数据结束 -->
+				 
+				
+				<!-- 条目列表结束 -->
+				<!-- 默认显示通知 -->
+			</div>
+		</section>
+		<!-- 页面主题内容结束 -->
+    <!-- 页面脚步开始 -->
+    <footer class="footer">
+  <p>Copyright&copy;国家药品监督管理局药品审评中心 All Right Reserved.</p>
+  <p>地址：中国  北京市朝阳区建国路128号   邮编：100022 </p>
+  <p>总机：8610-68585566 传真：8610-68584189 备案序号：<a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备09013725号</a></p>
+</footer>
+    <!-- 页面脚步结束 -->
+		
+	</div>
+
+	<!-- 加载js -->
+	<script src="/static/js/dep/jquery.min.js"></script>
+	<script src="/static/js/dep/jquery-ui.min.js"></script>
+	 <script type="text/javascript" src='/static/js/jquery.pagination.js'></script>
+	<script src="/static/js/index.js"></script>
+  <script type="text/javascript">
+    var pagination = $('.pagination');
+    var count = parseInt(pagination.attr('data-pageCount'));
+    var total = parseInt(pagination.attr('data-total'));
+    var current = parseInt(pagination.attr('data-current'));
+    var link = pagination.attr('data-link');
+    $('.pagination').pagination({
+      totalData: total,
+      totalCls:'total-nums',
+      pageCount: count,
+      current: current,
+      prevContent: '上一页', //上一页内容
+      nextContent: '下一页', //下一页内容
+      activeCls:'page-current',
+      jump: true, //跳转到指定页数
+      jumpIptCls: 'jump-ipt', //文本框内容
+      jumpBtnCls: 'jump-btn', //跳转按钮
+      jumpBtn: '跳转', //跳转按钮文本
+      callback:function(api){
+         var page = api.getCurrent();
+        window.location.href = link+'&page='+page;
+      }
+
+    });
+  </script>
+</body>
+</html>

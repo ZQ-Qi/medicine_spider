@@ -29,18 +29,23 @@ if __name__ == '__main__':
     excel = ExcelModule.ExcelModule()
     sws = SpiderWithSelenium.SpiderWithSelenium()
     swr = SpiderWithRequests.SpiderWithRequests(isproxy=True, proxy_on_startup=True)
+    
     # 新报
     data = sws.getYizhixingData(task="xb")
     excel.write_yizhixing(data, task="新报")
+    
     # 补充
     data = sws.getYizhixingData(task="fb")
     excel.write_yizhixing(data, task="补充")
+    
     # 送达
     data = sws.getSongdaData()
     excel.write_songda(data)
+    
     # 受理目录
     data = sws.getShoulimuluData()
     excel.write_shoulimulu(data)
+    
     # 关闭selenium
     sws.close()
     # 药品目录-新标准

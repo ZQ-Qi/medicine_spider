@@ -31,9 +31,9 @@ class SpiderWithRequests(object):
         "初始化，根据是否代理，何时代理设置重试次数"
         self.proxies = {}  # 初始化不开启代理
         self.proxies_url = ""  # 选用代理的ip:port
-        # 如果启用代理且不立即使用，则本地ip爬取直到第一次失败
-        # 如果启用代理且立即启用，则直接设置代理
-        # 如果不启用代理，则本地重试失败（长间隔）20次后，终止爬取（不推荐）
+        # 如果启用代理且不立即使用(isproxy=True, proxy_on_startup=False)，则本地ip爬取直到第一次失败
+        # 如果启用代理且立即启用(isproxy=True, proxy_on_startup=True)，则直接设置代理
+        # 如果不启用代理(isproxy=False)，则本地重试失败（长间隔）20次后，终止爬取（不推荐）
         self.isproxy = isproxy
         if not self.isproxy:
             self.proxies_retry = 20
@@ -59,6 +59,10 @@ class SpiderWithRequests(object):
 
     def requests_get(self, url, params={}, headers={}, cookies={}, proxies={}, timeout=5, **extra):
         "构建GET请求，并处理各类异常"
+        if self.proxies_retry <= 0:  # 判断现有代理是否已经超出重试次数
+            self.set_proxy()
+            print("更新代理:{}".format(self.proxies))
+            self.proxies_retry = 5 # 重置剩余重试次数
         try:
             response = requests.get(url, params=params, headers=headers, cookies=cookies, proxies=self.proxies, timeout=timeout, **extra)
         except Exception as e:
@@ -113,7 +117,7 @@ class SpiderWithRequests(object):
             print("等待{}s".format(wait_time))
             time.sleep(wait_time)
             params = {
-                "scpzrq_start": " 1990-11-01",
+                "scpzrq_start": "1990-11-01",
                 "scpzrq_end": "2025-12-01",
                 # "sllb": "按化学药品新注册分类批准的仿制药",
                 "sllb": taskType,
@@ -121,11 +125,24 @@ class SpiderWithRequests(object):
             }
             try:
                 response = self.requests_get(url, params=params, headers=self.header)
+                html = response.text
+                soup = BeautifulSoup(html)
+                # 解决使用代理池时可能出现的页面返回空页面只有js的情况
+                # 该情况只出现了一次，复现困难暂时这样处理一下
+                # with open('html.txt', 'w', encoding='utf-8') as f:
+                #     f.write(html)
+                if not soup.title.text == "中国上市药品目录集-首页":
+                    while True:
+                        print("页面空白，尝试重新抓取...")
+                        self.proxies_retry = self.proxies_retry - 1
+                        response = self.requests_get(url, params=params, headers=self.header)
+                        html = response.text
+                        soup = BeautifulSoup(html)
+                        if soup.title.text == "中国上市药品目录集-首页":
+                            break
             except ExitException as e:
                 print(e)
                 return datalist
-            html = response.text
-            soup = BeautifulSoup(html)
             if soup.find("div", {"class": "noData"}):  # 判断是否已抓取完毕，页面无数据后结束
                 print("药品目录-{}数据已全部抓取完成，共{}页".format(task, pagenum-1))
                 break
@@ -150,4 +167,7 @@ class SpiderWithRequests(object):
         return datalist
 
 if __name__ == '__main__':
+    swr = SpiderWithRequests()
+    data = swr.getYaopinmuluData(task="新标准")
+    print(data)
     pass
