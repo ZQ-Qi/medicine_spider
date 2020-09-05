@@ -19,13 +19,14 @@ ProxyPool 爬虫代理IP池
 
 ### ProxyPool
 
+爬虫代理IP池项目,主要功能为定时采集网上发布的免费代理验证入库，定时验证入库的代理保证代理的可用性，提供API和CLI两种使用方式。同时你也可以扩展代理源以增加代理池IP的质量和数量。
+
 * 文档: [document](https://proxy-pool.readthedocs.io/zh/2.1.0/) [![Documentation Status](https://readthedocs.org/projects/proxy-pool/badge/?version=latest)](https://proxy-pool.readthedocs.io/zh/latest/?badge=latest)
 
 * 支持版本: ![](https://img.shields.io/badge/Python-2.x-green.svg) ![](https://img.shields.io/badge/Python-3.x-blue.svg)
 
 * 测试地址: http://118.24.52.95 (单机勿压)
 
-* 有时间的朋友帮忙点下末尾的[推广](https://tracking.gitads.io/?repo=proxy_pool)哦 :stuck_out_tongue_winking_eye:
 
 ### 运行项目
 
@@ -101,6 +102,8 @@ docker run --env DB_CONN=redis://:password@ip:port/db -p 5010:5010 jhao104/proxy
 ### 使用
 
 * Api
+
+启动web服务后, 默认配置下会开启 http://127.0.0.1:5010 的api接口服务:
 
 | api | method | Description | arg|
 | ----| ---- | ---- | ----|
@@ -225,8 +228,3 @@ PROXY_FETCHER = [
 
    [changelog](https://github.com/jhao104/proxy_pool/blob/master/docs/changelog.rst)
 
-### AD
-
-　　最后, 开源不易, 有时间的小伙伴可以点下[推广](https://tracking.gitads.io/?repo=proxy_pool)广告。
-
-　　[![AD](https://images.gitads.io/proxy_pool)](https://tracking.gitads.io/?repo=proxy_pool)

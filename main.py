@@ -17,6 +17,7 @@ import time
 import SpiderWithSelenium
 
 if __name__ == '__main__':
+    # 启动IP代理池
     print("启动IP代理池...")
     p_schedule = Process(target=subprocess.call, args=(['python', './ip_pool/proxyPool.py', 'schedule'],))
     p_schedule.start()
@@ -25,7 +26,7 @@ if __name__ == '__main__':
     p_server.start()
     time.sleep(2)
 
-    # spider = Spider.Spider()
+    # 初始化Excel、Selenium和Requests模块
     excel = ExcelModule.ExcelModule()
     sws = SpiderWithSelenium.SpiderWithSelenium()
     swr = SpiderWithRequests.SpiderWithRequests(isproxy=True, proxy_on_startup=True)
@@ -46,8 +47,9 @@ if __name__ == '__main__':
     data = sws.getShoulimuluData()
     excel.write_shoulimulu(data)
     
-    # 关闭selenium
+    # 退出selenium
     sws.close()
+
     # 药品目录-新标准
     data = swr.getYaopinmuluData(task="新标准")
     excel.write_yaopinmulu(data, task="新标准")
@@ -62,6 +64,9 @@ if __name__ == '__main__':
     p_server.terminate()
     p_schedule.join()
     p_server.join()
+
+    # 难以有效解决反爬，已弃用
+    # spider = Spider.Spider()
 
     # data = spider.get_yizhixing_data()
     # excel.write_yizhixing(data)
